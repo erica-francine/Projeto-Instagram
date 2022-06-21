@@ -1,4 +1,4 @@
-# Projeto Página Inicial do Instagram :iphone:
+# Projeto Instagram :iphone:
 
-### Projeto da DIO Santander Bootcamp Fullstack: Recriando a página inicial do instagram.
+### Projeto da DIO: Recriando a página inicial do instagram.
 
